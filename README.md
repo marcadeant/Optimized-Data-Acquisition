@@ -1,6 +1,6 @@
 # Optimized-Data-Acquisition
 
-For the purpose of my Data Analyst's professional training, I worked on optimized data acquisition's solution. BottleNeck is a famous wine vendor. It has plenty of shop across Europe, especially in France which represent at least 50% of sales. 
+For the purpose of my Data Analyst's professional training, I worked on optimized data acquisition's solution. BottleNeck is a famous wine vendor. It has plenty of shop across Europe, especially in France which represent at least 50% of the total profit of all sales. 
 As freelance Data Analyst, I had to find out relationship between data provided by ERP and CMS and merge in a consistent data structure. 
 
 # 1. Data Clean up
