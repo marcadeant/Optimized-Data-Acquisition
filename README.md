@@ -20,3 +20,8 @@ In addition, my algorithm taking CMS and ERP merged data as parameters, provides
 
 Outliers additional's analysis helped me to have more detailed information about each of my quantitatives features. With a basic boxplot data representation overviewing my data distribution, I was able to identify and correct them if necessary. 
 In my case, this kind of analysis was useful to detect wrong prices's input like 2 000-euros's Chateaux de la Loire instead of 20.  
+
+# 4. Script and Data
+
+The entire source code is written on a Jupyter notebook [here]()
+Download CMS and ERP initial data from [github data's section]()
