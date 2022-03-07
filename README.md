@@ -10,8 +10,6 @@ So in this part, I have done some quantitative and qualitative analysis to quick
 
 I also checked uniquness on all of my pretending primary-key before merging.  
 
-Finally, I was able to merge data from 
-
 # 2. Testing Data Requests 
 
 The first step allowed me to work with relevant well-sorted data. Next, I wrote data request to get annual sales and compare it with sale department team. 
