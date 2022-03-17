@@ -17,7 +17,8 @@ In addition, my algorithm taking CMS and ERP merged data as parameters, provides
 
 # 3. Outliers's additional analysis
 
-Outliers additional's analysis helped me to have more detailed information about each of my quantitatives features. With a basic boxplot data representation overviewing my data distribution, I was able to identify and correct them if necessary. I used z-score and IQR statistical's methods to enhance my outliers detection precision's and confirm with my boxplot outliers's representation.   
+Outliers additional's analysis helped me to have more detailed information about each of my quantitatives features. With a basic boxplot data representation overviewing my data distribution, I was able to identify and correct them if necessary. I used z-score and IQR statistical's methods to enhance my outliers detection precision's and confirm with my boxplot outliers's representation.  
+
 This kind of analysis was useful to detect wrong prices's input like 2 000-euro's Chateaux de la Loire instead of 20. It also allows us to get a better wine market understanding to review pricing according to wine market prices.   
 
 # 4. Script and Data
