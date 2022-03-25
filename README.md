@@ -23,5 +23,5 @@ This kind of analysis was useful to detect wrong prices's input like 2 000-euro'
 
 # 4. Script and Data
 
-* The entire source code is written on a Jupyter notebook [here]()
-* Download CMS and ERP initial data from my [github data's section]()
+* The entire source code is written on a Jupyter notebook [here](https://github.com/marcadeant/Optimized-Data-Acquisition/tree/main/Notebook)
+* Download CMS and ERP initial data from my [github data's section](https://github.com/marcadeant/Optimized-Data-Acquisition/tree/main/data)
